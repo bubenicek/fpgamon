@@ -1,0 +1,2 @@
+# fpgamon
+FPGA miner monitor
